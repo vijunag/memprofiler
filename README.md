@@ -2,7 +2,7 @@
 CGroup Aware Memory Profiler
 
 #Sample o/p
-`
+```
 --------------------------------------------------------------------------------------------------------------
 MemFree      MemTotal     Buffers      Cached       SwapCached   SwapUsed
 715484       2038832      71864        851156       0            0
@@ -19,7 +19,7 @@ Cgroup Stats Summary
 MemTotal     CGRss        CGMemUsage   RssTotal     Mapped_file  CGCache
 1.94         3.74         14.0         18.3         6.0          9.0
 --------------------------------------------------------------------------------------------------------------
-`
+```
 
 
 
